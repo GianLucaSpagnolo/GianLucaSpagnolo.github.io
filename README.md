@@ -1,2 +1,2 @@
-# FrontEnd-Projects
-These are all the projects I have developed in HTML5, CSS3 &amp; JavaScript, in multiple courses.
+# FrontEnd Projects - Gian Luca Spagnolo
+These are all the projects I have completed and developed in HTML5, CSS3 &amp; JavaScript across multiple courses.
