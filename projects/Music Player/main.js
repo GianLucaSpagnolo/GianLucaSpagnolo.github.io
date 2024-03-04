@@ -137,5 +137,3 @@ var swiper = new Swiper(".swiper", {
     prevEl: ".backward",
   },
 });
-
-// Inspiration: https://dribbble.com/shots/5455156-Car-HMI-assistant-Album-switching
